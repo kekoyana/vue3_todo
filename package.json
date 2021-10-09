@@ -1,0 +1,8 @@
+{
+  "name": "vue3_todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kekoyana/vue3_todo.git",
+  "author": "kekoyana <kekoyana0@gmail.com>",
+  "license": "MIT"
+}
